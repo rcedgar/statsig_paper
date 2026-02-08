@@ -14,3 +14,7 @@ cp alignResults/rawoutput/dalialn $MY_REPOS/statsig_paper/big_data/dalis.scop40
 </pre>
 
 Create Foldseek SCOP40 database in `../big_foldseek/scop40/scop40db`.
+
+**Complete data including large files**
+
+[https://zenodo.org/records/18527896](https://zenodo.org/records/18527896)
